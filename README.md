@@ -14,3 +14,6 @@
 * На обеих страница обрабатывается клавиатурное нажатие на клавишу `ESC` для закрытия popup
 
 Весь JavaScript написан без использования 'всяких' [библиотек](https://jquery.com/ ':shit:')
+
+
+![maket-image1](https://github.com/Oxenz/barbershop-2017/blob/master/img/pre/barb-all-size.jpg "Четыре страницы")
